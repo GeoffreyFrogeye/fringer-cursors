@@ -187,14 +187,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -214,14 +213,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -251,14 +249,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -274,14 +271,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -915,14 +911,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -942,14 +937,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -979,14 +973,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
@@ -1002,14 +995,13 @@
                     {
                       "name": "animate",
                       "args": {
-                        "duration": 1500,
-                        "ease": "in-out-cubic"
+                        "duration": 1000
                       }
                     },
                     {
                       "name": "rotate",
                       "args": {
-                        "degrees": 720
+                        "degrees": 360
                       }
                     }
                   ]
