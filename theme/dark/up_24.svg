@@ -6,12 +6,12 @@
 <rect fill="white" x="6" y="3" width="11" height="18"/>
 <path d="M11.5 4L7 11L10 12L11 20H12L13 12L16 11L11.5 4Z"/>
 </mask>
-<path d="M11.5 4L7 11L10 12L11 20H12L13 12L16 11L11.5 4Z" fill="#0D0D0D"/>
-<path d="M11.5 4L7 11L10 12L11 20H12L13 12L16 11L11.5 4Z" stroke="white" stroke-opacity="0.65" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_9334)"/>
+<path d="M11.5 4L7 11L10 12L11 20H12L13 12L16 11L11.5 4Z" fill="#5A7058"/>
+<path d="M11.5 4L7 11L10 12L11 20H12L13 12L16 11L11.5 4Z" stroke="#8D9800" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_9334)"/>
 </g>
 </g>
 <g id="hotspot" clip-path="url(#clip1_2320_9334)">
-<rect id="center" opacity="0.5" x="11" y="3" width="1" height="1" fill="#FF3DFF"/>
+<rect id="center" opacity="0.5" x="11" y="3" width="1" height="1" fill="#D43982"/>
 </g>
 </g>
 <defs>

@@ -9,18 +9,18 @@
 <path d="M11 15H12V21H11V15Z"/>
 <path d="M2 12H8V11H2V12Z"/>
 </mask>
-<path d="M11 2V8H12V2H11Z" fill="#FBFBFB"/>
-<path d="M15 12V11H21V12H15Z" fill="#FBFBFB"/>
-<path d="M11 15H12V21H11V15Z" fill="#FBFBFB"/>
-<path d="M2 12H8V11H2V12Z" fill="#FBFBFB"/>
-<path d="M11 2V8H12V2H11Z" stroke="black" stroke-opacity="0.65" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
-<path d="M15 12V11H21V12H15Z" stroke="black" stroke-opacity="0.65" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
-<path d="M11 15H12V21H11V15Z" stroke="black" stroke-opacity="0.65" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
-<path d="M2 12H8V11H2V12Z" stroke="black" stroke-opacity="0.65" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M11 2V8H12V2H11Z" fill="#FAE2E3"/>
+<path d="M15 12V11H21V12H15Z" fill="#FAE2E3"/>
+<path d="M11 15H12V21H11V15Z" fill="#FAE2E3"/>
+<path d="M2 12H8V11H2V12Z" fill="#FAE2E3"/>
+<path d="M11 2V8H12V2H11Z" stroke="#8D9800" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M15 12V11H21V12H15Z" stroke="#8D9800" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M11 15H12V21H11V15Z" stroke="#8D9800" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
+<path d="M2 12H8V11H2V12Z" stroke="#8D9800" stroke-width="2" stroke-linejoin="round" mask="url(#path-1-outside-1_2320_8696)"/>
 </g>
 </g>
 <g id="hotspot" clip-path="url(#clip0_2320_8696)">
-<rect id="center_3" opacity="0.5" x="11" y="11" width="1" height="1" fill="#FF3DFF"/>
+<rect id="center_3" opacity="0.5" x="11" y="11" width="1" height="1" fill="#D43982"/>
 </g>
 </g>
 <defs>
