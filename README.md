@@ -11,7 +11,7 @@ It is a hodge podge of the following:
 
 The name is a collapse of the original project name with Frogeye, as I usually do with thing I fork.
 
-![preview](assets/preview.png)
+![preview](assets/preview.svg)
 
 ## How to install
 
