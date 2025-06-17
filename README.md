@@ -17,10 +17,8 @@ The name is a collapse of the original project name with Frogeye, as I usually d
 
 ### NixOS
 
-Copy [the package definition from my dotfiles](https://git.frogeye.fr/geoffrey/dotfiles/src/branch/main/hm/desktop/cursor/default.nix),
+Copy [the package definition from my dotfiles](https://git.frogeye.fr/geoffrey/dotfiles/src/commit/d73fc4cb57c1ec830181126dbe7e413ddcd5295c/hm/desktop/cursor/default.nix#L8),
 then you can either add it to your `configuration.nix`:
-
-<!-- TODO Permalink once dotfiles commit made -->
 
 ```nix
 environment.systemPackages = fringer-cursors;
